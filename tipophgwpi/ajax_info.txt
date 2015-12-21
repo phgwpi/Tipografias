@@ -1,0 +1,12 @@
+AJAX is a technique for creating fast and dynamic web pages.
+
+function loadDoc() {<br>
+  var xhttp = new XMLHttpRequest();<br>
+  xhttp.onreadystatechange = function() {<br>
+    if (xhttp.readyState == 4 && xhttp.status == 200) {<br>
+      document.getElementById("demo").innerHTML = xhttp.responseText;<br>
+    }<br>
+  };<br>
+  xhttp.open("GET", "ajax_info.txt", true);<br>
+  xhttp.send();<br>
+}
