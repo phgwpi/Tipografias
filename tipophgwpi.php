@@ -2,10 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
-    <meta name="dcterms.created" content="vi., 27 nov. 2015 06:46:43 GMT">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
     <title>tipografías</title>
     <style>
     
